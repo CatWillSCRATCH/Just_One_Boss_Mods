@@ -9,3 +9,5 @@ List of mods (by release date):
 
 - Spanish Mod (12/23/2022)
 - Christmas Edition (12/25/2022)
+
+Merry Christmas!
